@@ -1,0 +1,12 @@
+
+/* post updated meesage update*/
+
+.components-snackbar__content{
+    display: none !important;
+}
+
+.components-snackbar:after{
+    content: 'Your Changes Sent for Review !!' !important;
+    color: #fff !important;
+}
+

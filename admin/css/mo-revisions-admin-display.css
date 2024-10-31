@@ -1,0 +1,37 @@
+
+table.dataTable thead th, table.dataTable tfoot th {
+    font-weight: 400 !important;
+}
+.dataTables_filter{
+    margin-bottom: 10px !important;
+}
+.dataTables_wrapper{
+  margin-right:10px;
+}
+select[name="myTable_length"] {
+  width:60px;
+}
+.dataTables_wrapper .dataTables_filter input{
+  background-color:#fff;
+}
+.dataTables_wrapper .dataTables_length select{
+  background-color:#fff;
+}
+.mor-admin-display-button{
+  width:80px;
+  margin:5px !important;
+}
+#mor-admin-display-logo{
+  height: 60px;
+  width: 250px;
+}
+.mor-admin-display-top{
+  text-align: center;
+}
+.mor-admin-display-top h1{
+  color: #5f6062;
+}
+#mor-admin-display-table-heading{
+  
+  text-align: center;
+}
